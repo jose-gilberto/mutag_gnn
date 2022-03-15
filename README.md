@@ -6,7 +6,7 @@ O conjunto de dados MUTAG é uma coleção de compostos nitroaromáticos e o obj
 
 As entradas do algoritmo são compostos químicos representados através de grafos, os vértices representam os átomos do composto e são categorizados de acordo com o seu tipo de átomo (representado utilizando `one_hot_encoding`), enquanto as arestas entre os vértices representam as ligações entre dois átomos.
 
-O conjunto de dados inclue 188 amostras de compostos com 7 tipos de átomos diferentes.
+O conjunto de dados inclui 188 amostras de compostos com 7 tipos de átomos diferentes.
 
 
 ## Estrutura do projeto
